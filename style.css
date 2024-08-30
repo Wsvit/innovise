@@ -254,7 +254,7 @@ section .container .flex {
 }
 
 section.especialidades {
-  background-color: #dbdbdb;
+  background-color: #f5f5f5;
   padding: 40px 4%; /* Ajuste o padding conforme necessário */
   position: relative; /* Garante que o conteúdo não se sobreponha */
   z-index: 1; /* Garante que a seção esteja acima do fundo */
@@ -379,7 +379,7 @@ section.sobre .flex {
 }
 
 #cases {
-  background-color: #dbdbdb;
+  background-color: #f5f5f5;
   padding: 80px 4%;
 }
 
