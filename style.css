@@ -831,7 +831,7 @@ section {
 .modal {
   display: none; /* Esconder o modal por padrão */
   position: fixed; /* Ficar em posição fixa */
-  z-index: 1; /* Ficar acima do conteúdo */
+  z-index: 5; /* Ficar acima do conteúdo */
   left: 0;
   top: 0;
   width: 100%;
